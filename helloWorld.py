@@ -1,5 +1,5 @@
 # Project: Hello world
-# Author: Matthew Simone
+# Author: (Your name here)
 # Class: Python 1
 # Due: 9/20/26
 
