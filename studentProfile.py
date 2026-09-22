@@ -1,7 +1,7 @@
 # Project: Student Profile
 # Author: (Your name here)
 # Class: Python 1
-# Due: 9/20/26
+# Due: 9/24/26
 
 name = input("Name: ")
 program = input("Program of Study: ")
