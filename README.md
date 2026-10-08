@@ -3,4 +3,4 @@ This is a repository for the Python 1 Class that meets every Tues/Thurs from 9:3
 
 Use this repo as a **REFERENCE ONLY** - copying and pasting code will result in points off or a *ZERO*
 
-~ MS1 🌙
+~ 🌙 MS1
