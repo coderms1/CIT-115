@@ -1,17 +1,19 @@
 # gradeChecker.py
 
-# Get student's name
+# INPUT (prompt user for data)
+## Get student's name
 sName = input("Enter the student's name: ")
  
-# Get three grades
+## Get three grades
 iGrade1 = int(input("Enter Grade #1: "))
 iGrade2 = int(input("Enter Grade #2: "))
 iGrade3 = int(input("Enter Grade #3: "))
 
-# Calculate the average
+# LOGIC (Calculations/Conditions)
+## Calculate the average
 fAverage = (iGrade1 + iGrade2 + iGrade3) / 3
 
-# Determine the letter grade
+## Determine the letter grade
 if fAverage >= 90:
     sLetterGrade = "A"
 elif fAverage >= 80:
@@ -23,7 +25,8 @@ elif fAverage >= 60:
 else:
     sLetterGrade = "F"
 
-# Display results
+# OUTPUT (display results)
+## Display results
 print("\n--- Grade Results ---")
 print("Student:", sName)
 print(f"Average: {fAverage:.2f}")
